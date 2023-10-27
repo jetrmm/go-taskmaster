@@ -7,7 +7,6 @@ Windows Task Scheduler Library for Go
 
 **NOTE:** the API is *not* stable, I reserve the right to change it before v1.0. Task Scheduler is complex, and it is difficult to create a sane, useable interface for it. I would highly encourage you to make use of Go modules and pin a specific commit.
 
-![taskmaster villain](img/taskmaster.jpg "Taskmaster")
 
 # What is taskmaster?
 
